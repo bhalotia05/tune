@@ -1,7 +1,5 @@
 ## tune.[with]in
 
-This project was created during the Microsoft Engage mentorship program 2022.
-
 
 ## Development
 
