@@ -5,7 +5,7 @@ This project was created during the Microsoft Engage mentorship program 2022.
 
 ## Development
 
-1. `git clone https://github.com/lvi131/tune.within.git`
+1. `git clone https://github.com/bhalotia05/tune.git`
 
 2. `cd tune.within`
 
